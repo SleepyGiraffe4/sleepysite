@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <style>
+html::-webkit-scrollbar {
+  display: none;
+}
+    </style>
+<head>
+    <title>Test Page</title>
+</head>
+<body>
+    <script src="https://uncopylockdomainhere.github.io/testing/classlink3.js"></script>
+</body>
+</html>
